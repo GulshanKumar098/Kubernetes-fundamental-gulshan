@@ -1,11 +1,4 @@
 # Kubernetes Fundamentals
-
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
-
-## Two FREE Courses on Udemy
-- [Kubernetes for Absolute Beginners on AWS Cloud | Part-1](https://www.udemy.com/course/kubernetes-for-absolute-beginners-on-aws-cloud-part-1)
-- [Kubernetes for Absolute Beginners on AWS Cloud | Part-2](https://www.udemy.com/course/kubernetes-for-absolute-beginners-on-aws-cloud-part-2)
-
 ## Contents
 
 | S.No | Course Contents |
@@ -107,7 +100,7 @@
 - **Step-03:** Deploy and Test - Frontend and Backend Applications
 
 
-## What will students learn in your course?
+## What will learn?
 - You will learn creating Pods, ReplicaSets, Deployments and Services using kubectl
 - You will learn creating Pods, ReplicaSets, Deployments and Services using YAML
 - You will write kubernetes manifests using YAML with confidence after going through live template writing sections
@@ -116,14 +109,6 @@
 - You will master many kubectl commands over the process
 - You will have step by step instructions documented using github repository
 
-## Are there any course requirements or prerequisites?
-- You must have an AWS account to follow with me for hands-on activities.
-- You dont need to have any basic kubernetes knowledge to start this course.  
-
-
-## Who are your target students?
-- Any beginner who is interested in learning kubernetes on cloud using AWS EKS. 
-- AWS Architects or Sysadmins or Developers who are planning to master Elastic Kubernetes Service (EKS) for running applications on Kubernetes
 
 ## Each of my courses come with
 - Amazing Hands-on Step By Step Learning Experiences
